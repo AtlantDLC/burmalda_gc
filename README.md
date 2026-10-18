@@ -2,7 +2,7 @@
 
 > [!CAUTION]
 > This project is incomplete and not ready for general use.
-
+  
 ## What is this?
 In Valve games, the Game Coordinator (GC) is a backend service most notably responsible for matchmaking and inventory management (like loadouts and skins). This project redirects the GC traffic to a custom, in-process implementation.
 
