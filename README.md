@@ -15,7 +15,7 @@ While it's still possible to connect CS:GO to CS2's GC by spoofing the version n
 - Opening cases (including sticker capsules, patch packs, graffiti boxes and music kit boxes)
 - Graffiti support
 - Weapon StatTrak support
-- Storage Units
+- Storage Units213
 - Stickers and patches
 - Name tags
 - Music kits
